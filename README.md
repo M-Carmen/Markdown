@@ -9,3 +9,13 @@
 
 Podemos poner incluso imágenes!  
 ![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+
+* Tabla:
+
+| Columna 1                                | Columna 2                               |
+|------------------------------------------|-----------------------------------------|
+|  1º Columna                              | 2ª Columna                              |
+|                                          |                                         |
+
+* Enlace a una página de nuestra web:
+ [Visita GitHub](https://github.com)	 
